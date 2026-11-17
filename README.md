@@ -21,7 +21,6 @@ with real paying users.
 |---|---|---|
 | [Planstalk](https://github.com/MehulDeshlahra/planstalk) | Event platform: 100+ users, 20+ events, Rs. 1,00,000+ in paid bookings | Next.js, React Native, NestJS microservices, Kafka, Redis, Postgres |
 | [Property Passport](https://github.com/MehulDeshlahra/property-passport) | Live app that runs property resale deals for brokers in Maharashtra | React Native (Expo), TypeScript, Supabase |
-| [Studio](https://github.com/MehulDeshlahra/studio) | Automated Shorts studio: a scout agent that studies what works, on free AI models | Python, LLM APIs |
 
 The Planstalk and Property Passport code is private. Their pages here explain the product, the architecture and the
 problems I solved. I'm happy to walk through the code in an interview.
